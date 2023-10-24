@@ -1,0 +1,16 @@
+{
+    "1651e7bc4d45bb": {
+        "id": "1651e7bc4d45bb",
+        "email": "mrpefr@gmail.com",
+        "password": "$2y$10$fp9H8U4DUKyvCRU7AIW91eWx65Q3WC.MTL57lMAdBMOJqkbHpRBde",
+        "name": "Mr Pefr",
+        "admin": false
+    },
+    "1651e7c0f7c311": {
+        "id": "1651e7c0f7c311",
+        "email": "lenny@lenny.com",
+        "password": "$2y$10$dxzeMwJDMAuIzKpYg2K.2e9oWsu1VPnsCgGXe6wLZJksSlx8vaQtO",
+        "name": "Lenny",
+        "admin": false
+    }
+}
